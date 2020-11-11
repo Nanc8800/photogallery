@@ -109,7 +109,7 @@ form ion-icon{
 }
 @media only screen and (min-width: 900px)
 .container {
-  max-width:900px;
+  max-width:1160px;
   padding: 100px;
 }
 .header{
@@ -127,4 +127,7 @@ form ion-icon{
 }
 .gallery{
   grid-gap:30px;
+}
+.item h3{
+  font-size: 10px;
 }
