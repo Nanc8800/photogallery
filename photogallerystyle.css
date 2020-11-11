@@ -108,6 +108,7 @@ form ion-icon{
   bottom:0;
 }
 @media only screen and (min-width: 900px)
+  {
 .container {
   max-width:1160px;
   padding: 100px;
@@ -130,4 +131,5 @@ form ion-icon{
 }
 .item h3{
   font-size: 10px;
+}
 }
